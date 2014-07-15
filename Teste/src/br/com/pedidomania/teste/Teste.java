@@ -6,6 +6,7 @@ public class Teste {
 
 		System.out.println("Bem vindos ao Pedido Mania! Teste Egit!!! Teste");
 		System.out.println("Teste ok!");
+		System.out.println("Teste 2");
 	}
 
 }
